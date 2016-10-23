@@ -1,2 +1,3 @@
-# GameTemplate
-Template for JavaScript/HTML5 games
+#Game Template
+##HTML5, CSS3, TypeScript
+###Alex Ivanov Tsvetanov

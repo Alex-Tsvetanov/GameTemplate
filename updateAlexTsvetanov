@@ -1,0 +1,6 @@
+#!/bin/bash
+echo -e "#Game Template\n##HTML5, CSS3, TypeScript\n###Alex Ivanov Tsvetanov" > README.md
+git init
+git add -A
+git commit
+git push
