@@ -1,0 +1,6 @@
+#!/bin/bash
+
+for i in `ls ts` ; 
+do
+	tsc ts/$i --outFile js/`echo $i | rev | cut -c 4- | rev`.js
+done
